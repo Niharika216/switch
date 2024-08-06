@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+form{
+  display: inline-block;
+  border: 2px black solid;
+  padding: 10px;
+  background-color: skyblue;
+}
+label{
+  display: inline-block;
+  width: 150px;
+}
+.incrementDiv{
+  border: 2px solid black;
+  width: 400px;
+  padding: 10px;
+  position: absolute;
+  left: 35%;
+}
+button{
+  margin: 10px;
+}
